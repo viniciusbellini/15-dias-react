@@ -5,7 +5,6 @@ import "./styles.css";
 class SquareCollab extends Component{
     
     handleClick = () => console.log("Clicou")
-
     render(){
         return(
             <button 
