@@ -1,0 +1,11 @@
+.square-collab{
+    box-sizing: border-box;
+    background: lightcyan;
+    border: 1px solid darkblue; 
+    border-radius: 10px;
+    width: 33.333%;
+    height: 33.333%;
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}
