@@ -5,6 +5,6 @@ import './styles.css'
 
 const BoardCollab = ({qtde}) => (
     <article className='board-collab'><SquareCollab/></article>
-);
+)
 
 export default BoardCollab;
