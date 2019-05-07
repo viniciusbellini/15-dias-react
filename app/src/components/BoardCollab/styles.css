@@ -1,8 +1,7 @@
 .board-collab{
-    border: 1px solid darkblue;
     background: darkblue;
     border-radius: 10px;
-    width: 80vw;
-    height: 80vw;
+    width: 40vw;
+    height: 40vw;
     display: inline-block;
 }
